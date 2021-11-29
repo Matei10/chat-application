@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/messenger-chat-app/static/css/main.5e9a2761.chunk.css",
+    "main.js": "/messenger-chat-app/static/js/main.570befbd.chunk.js",
+    "main.js.map": "/messenger-chat-app/static/js/main.570befbd.chunk.js.map",
+    "runtime-main.js": "/messenger-chat-app/static/js/runtime-main.5a1f7add.js",
+    "runtime-main.js.map": "/messenger-chat-app/static/js/runtime-main.5a1f7add.js.map",
+    "static/js/2.42e15c10.chunk.js": "/messenger-chat-app/static/js/2.42e15c10.chunk.js",
+    "static/js/2.42e15c10.chunk.js.map": "/messenger-chat-app/static/js/2.42e15c10.chunk.js.map",
+    "index.html": "/messenger-chat-app/index.html",
+    "static/css/main.5e9a2761.chunk.css.map": "/messenger-chat-app/static/css/main.5e9a2761.chunk.css.map",
+    "static/js/2.42e15c10.chunk.js.LICENSE.txt": "/messenger-chat-app/static/js/2.42e15c10.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a1f7add.js",
+    "static/js/2.42e15c10.chunk.js",
+    "static/css/main.5e9a2761.chunk.css",
+    "static/js/main.570befbd.chunk.js"
+  ]
+}
